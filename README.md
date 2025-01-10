@@ -4,6 +4,6 @@ This project is for Xyktl's grandpa.
 <br>https://xingfuxue.csec.top/</br>
 <br>This is the website👆</br>
 <br>This website is sponsered by </br>
-<b>Aurorium©</b>
+<b>CSEC©</b>
 and 
 <b>金达图文©</b>
